@@ -187,10 +187,10 @@ version = '2.0.0-rc4'
 [package]
 authors = ['Substrate DevHub <https://github.com/substrate-developer-hub>']
 edition = '2018'
-homepage = 'https://substrate.dev'
+homepage = 'https://github.com/PolkaStorm'
 license = 'Unlicense'
-name = 'node-template-runtime'
-repository = 'https://github.com/substrate-developer-hub/substrate-node-template/'
+name = 'smart-audit-runtime'
+repository = 'https://github.com/PolkaStorm/smart-audit/'
 version = '2.0.0-rc4'
 [package.metadata.docs.rs]
 targets = ['x86_64-unknown-linux-gnu']

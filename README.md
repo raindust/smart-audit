@@ -1,6 +1,6 @@
 [![Try on playground](https://img.shields.io/badge/Playground-node_template-brightgreen?logo=Parity%20Substrate)](https://playground-staging.substrate.dev/?deploy=node-template)
 
-# Substrate Node Template
+# Smart Audit
 
 A new FRAME-based Substrate node, ready for hacking :rocket:
 
